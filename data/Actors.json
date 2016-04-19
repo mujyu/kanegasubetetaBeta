@@ -1,0 +1,11 @@
+[
+null,
+{"id":1,"battlerName":"サミュエル","characterIndex":0,"characterName":"サミュエル","classId":1,"equips":[1,1,2,3,0],"faceIndex":0,"faceName":"サミュエル","traits":[],"initialLevel":1,"maxLevel":99,"name":"サミュエル","nickname":"","note":"","profile":""},
+{"id":2,"battlerName":"アンドレアス","characterIndex":0,"characterName":"アンドレアス","classId":2,"equips":[2,0,0,0,0],"faceIndex":0,"faceName":"アンドレアス","traits":[],"initialLevel":1,"maxLevel":99,"name":"アンドレアス","nickname":"","note":"","profile":""},
+{"id":3,"battlerName":"エーデル","characterIndex":0,"characterName":"エーデル","classId":4,"equips":[3,0,2,3,4],"faceIndex":0,"faceName":"エーデル","traits":[{"code":51,"dataId":2,"value":1}],"initialLevel":1,"maxLevel":99,"name":"エーデル","nickname":"","note":"","profile":""},
+{"id":4,"battlerName":"","characterIndex":6,"characterName":"","classId":4,"equips":[4,0,2,3,4],"faceIndex":6,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"ミシェル","nickname":"","note":"実装未定","profile":""},
+{"id":5,"battlerName":"カルロス","characterIndex":0,"characterName":"カルロス","classId":3,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"カルロス","traits":[],"initialLevel":1,"maxLevel":99,"name":"カルロス","nickname":"","note":"","profile":""},
+{"id":6,"battlerName":"","characterIndex":0,"characterName":"","classId":6,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"マルティナ","nickname":"","note":"隠しキャラ","profile":""},
+{"id":7,"battlerName":"どろにんぎょう","characterIndex":0,"characterName":"どろにんぎょう","classId":7,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"たましいちゃん","nickname":"","note":"","profile":""},
+{"id":8,"battlerName":"アッシュ","characterIndex":0,"characterName":"アッシュ","classId":8,"equips":[1,0,0,0,0],"faceIndex":0,"faceName":"hero1","traits":[{"code":11,"dataId":1,"value":1}],"initialLevel":1,"maxLevel":99,"name":"アシュリー","nickname":"","note":"","profile":"異界からきた機械仕掛けの体を持つ少女。\n賞金で手早く人間の体を買おうとする向こう見ず。"}
+]

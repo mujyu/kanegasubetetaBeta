@@ -1,0 +1,7 @@
+[
+null,
+{"id":1,"atypeId":5,"description":"別名、矛盾。どんな矛にも貫かれるとされる。\n防御がやけにあがる。","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":128,"name":"盾","note":"","params":[0,0,0,120,0,0,0,0],"price":2100},
+{"id":2,"atypeId":1,"description":"日差しが強い日にはたよりになる。\n魔法攻撃力が上昇する。","etypeId":3,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":130,"name":"帽子","note":"","params":[0,0,0,60,120,0,0,0],"price":2050},
+{"id":3,"atypeId":1,"description":"だれでもきられてわりと便利。\n物理、魔法防御力が上がる。","etypeId":4,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":135,"name":"鎧","note":"","params":[0,0,0,90,0,90,0,0],"price":2500},
+{"id":4,"atypeId":1,"description":"破邪の力を持つ指輪。指を守ってくれる。\n最大HPが上昇する。","etypeId":5,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":145,"name":"指輪","note":"","params":[410,0,0,80,10,0,0,0],"price":3100}
+]
